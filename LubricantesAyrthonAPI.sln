@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LubricantesAyrthonAPI", "LubricantesAyrthonAPI\LubricantesAyrthonAPI.csproj", "{939692D0-9E62-4554-8FEC-26096094E669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LubricantesAyrthonAPI.Tests", "LubricantesAyrthonAPI.Tests\LubricantesAyrthonAPI.Tests.csproj", "{91CDAEFC-A82C-419D-BC83-AE783DBE5C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{939692D0-9E62-4554-8FEC-26096094E669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939692D0-9E62-4554-8FEC-26096094E669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939692D0-9E62-4554-8FEC-26096094E669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939692D0-9E62-4554-8FEC-26096094E669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CDAEFC-A82C-419D-BC83-AE783DBE5C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CDAEFC-A82C-419D-BC83-AE783DBE5C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CDAEFC-A82C-419D-BC83-AE783DBE5C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CDAEFC-A82C-419D-BC83-AE783DBE5C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0373548D-6A39-4461-8EF9-C6810D53F01D}
+	EndGlobalSection
+EndGlobal
